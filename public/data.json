@@ -4,7 +4,7 @@
         "name": "Chemical engneering",
         "image": "https://i.ibb.co/ftWqR2R/1.webp",
         "desc": "Chemical engineering is a certain type of engineering which deals with the study of operation and design of chemical plants as well as methods of improving production. Chemical engineers develop economical commercial processes to convert raw material into useful products.",
-        "pride": 100,
+        "price": 100,
         "people": 20
     },
     {
@@ -12,7 +12,7 @@
         "name": "Mechanical engneering",
         "image": "https://i.ibb.co/k10vxkB/asset-2.webp",
         "desc": "Mechanical engineering is an engineering branch that combines engineering physics and mathematics principles with materials science to design, analyze, manufacture, and maintain mechanical systems. It is one of the oldest and broadest of the engineering branches",
-        "pride": 200,
+        "price": 200,
         "people": 25
     },
     {
@@ -20,7 +20,7 @@
         "name": "Bio engneering",
         "image": "https://i.ibb.co/n0Gsc7B/2.webp",
         "desc": "Biological engineering or bioengineering is the application of principles of biology and the tools of engineering to create usable, tangible, economically-viable products.",
-        "pride": 300,
+        "price": 300,
         "people": 25
     },
     {
@@ -28,7 +28,7 @@
         "name": "Custom Product Design",
         "image": "https://i.ibb.co/9nfCrWh/asset-1.webp",
         "desc": "Product design process: the set of strategic and tactical activities, from idea generation to commercialization, used to create a product design. In a systematic approach, product designers conceptualize and evaluate ideas, turning them into tangible inventions and products.",
-        "pride": 300,
+        "price": 300,
         "people": 15
     },
     {
@@ -36,7 +36,7 @@
         "name": "Computer Engineering",
         "image": "https://i.ibb.co/WfrFsHh/asset-5.webp",
         "desc": "Computer engineering is a branch of engineering that integrates several fields of computer science and electronic engineering required to develop computer hardware and software.",
-        "pride": 300,
+        "price": 300,
         "people": 25
     },
     {
@@ -44,7 +44,7 @@
         "name": "Social Media Network",
         "image": "https://i.ibb.co/tPbbrDv/asset-3.webp",
         "desc": "Product design process: the set of strategic and tactical activities, from idea generation to commercialization, used to create a product design. In a systematic approach, product designers conceptualize and evaluate ideas, turning them into tangible inventions and products.",
-        "pride": 100,
+        "price": 100,
         "people": 15
     },
     {
@@ -52,7 +52,7 @@
         "name": "Advanced JavaScript Learning",
         "image": "https://i.ibb.co/DC5VCG2/asset-2.webp",
         "desc": "JavaScript is among the most favourable programming languages to learn right now for hobby projects as well as career/job perspective. Make friends with JavaScript and advance your career as a JS developer.",
-        "pride": 220,
+        "price": 220,
         "people": 28
     },
     {
@@ -60,7 +60,7 @@
         "name": "Design & Develop",
         "image": "https://i.ibb.co/FBYD569/asset-3.webp",
         "desc": "The design and development process should examine all the potential risks and hurdles you will need to overcome to get the product to market. It involves defining the specification and the design of your product or service through drawings, models or prototypes.",
-        "pride": 140,
+        "price": 140,
         "people": 30
     }
 ]

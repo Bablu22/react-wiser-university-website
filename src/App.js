@@ -13,6 +13,7 @@ import Services from './Componants/Services/Services';
 import Contact from './Componants/Contact/Contact';
 import Footer from './Componants/Footer/Footer';
 import Banner from './Componants/Header/Banner';
+import NotFound from './Componants/PageNotFound/NotFound';
 
 function App() {
   return (
@@ -35,6 +36,9 @@ function App() {
 
           <Route exact path="/">
             <Home></Home>
+          </Route>
+          <Route exact path="*">
+            <NotFound></NotFound>
           </Route>
         </Switch>
         <Footer></Footer>

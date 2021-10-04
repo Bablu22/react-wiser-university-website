@@ -1,0 +1,9 @@
+.contact-area h5{
+ color: #002347;
+}
+.contact-area p{
+    color: gray;
+}
+.contact-area .lern-btn:hover{
+    color: black !important;
+}

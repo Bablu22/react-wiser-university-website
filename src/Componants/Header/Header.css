@@ -95,3 +95,41 @@ transition: .5s;
    
 }
 
+@media screen and (max-width:640px) {
+    .banner{
+        margin-top: 20px;
+    }
+    .banner-content{
+        position: relative;
+        margin-top: 0;
+    }
+
+    .banner-content h1{
+    font-size: 30px;
+    
+}
+    .banner-content button{
+    margin: 10px 0px;
+
+    
+    }
+    .link{
+        color: white;
+    }
+    .nav-item{
+       text-align: center !important;
+       background-color: #002347;
+       color: white !important;
+       width: 100%;
+       margin: 6px 0   ;
+       padding: 6px 0;
+       border-radius: 10px;
+    }
+    .banner{
+        padding-bottom: 200px;
+        padding-top: 350px;
+    }
+    .navbar-brand img{
+        width: 60% !important;
+    }
+}

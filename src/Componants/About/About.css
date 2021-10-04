@@ -1,0 +1,33 @@
+.about-heading{
+    color: #002347;
+    position: relative;
+    padding-bottom: 10px;
+}
+.about-heading::after{
+    content: '';
+    position: absolute;
+    height: 1px;
+    width: 10%;
+    background-color: orange;
+    bottom: 0;
+    left: 0;
+
+}
+.blog-right div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #555;
+    padding: 8px;
+    box-sizing: border-box;
+}
+.blog-right h3{
+    background-color: tomato;
+    padding: 7px 0;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+    border-radius: 5px;
+
+}

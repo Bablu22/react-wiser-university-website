@@ -3,9 +3,9 @@ import './Footer.css'
 const Footer = () => {
     return (
         <div>
-            <div className="footer">
+            <div className="footer mt-5">
                 <div className="container">
-                    <div className="d-flex justify-content-between align-items-center">
+                    <div className="d-flex justify-content-between align-items-center footer-content">
                         <div>
                             <h3>About Us</h3>
                             <a href="/">Online Learning</a>

@@ -1,0 +1,12 @@
+.card-title{
+    color: #002347 !important;
+}
+.card{
+    background-color: white !important;
+    border: none;
+    height: 460px !important;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.card-footer .lern-btn:hover{
+    color: black !important;
+}
